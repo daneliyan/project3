@@ -156,7 +156,7 @@ img {
 .postavki {
     position: relative;
     padding-top: 100px;
-    padding-bottom: 50px;
+    padding-bottom: 60px;
 }
 
 .postavki .heading {
@@ -306,7 +306,7 @@ img {
 /* preimush section starts */
 
 .preimush {
-    padding-bottom: 50px;
+    padding-bottom: 60px;
 }
 
 .preimush__item {
